@@ -262,9 +262,9 @@ function main(argv, App) {
   const defaultArgs = {
     outlookCalendarName: "Calendar",
     outlookCalendarIndex: "1",
-    appleCalendarName: "Work",
-    daysAgo: "56",
-    daysAhead: "56"
+    appleCalendarName: "Home",
+    daysAgo: "7",
+    daysAhead: "28"
   };
 
   const args = {
